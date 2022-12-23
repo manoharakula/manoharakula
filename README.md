@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manoharakula
-- 👀 I’m interested in Artificial Intelligence, Robotics, Computer Vision, and Deep/Machine Learning
+- 👀 I’m interested in Data Science, Artificial Intelligence, Robotics, Computer Vision, and Deep/Machine Learning
 - 🌱 I’m currently learning Robotics and Autonomous Systems (Artificial Intelligence)
 - 💞️ I’m looking to collaborate on Autonomous Vehicles
 - 📫 How to reach me akulamanohar96@gmail.com
